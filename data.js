@@ -51,7 +51,7 @@ const graduationData = {
   },
 
   footer: {
-    brand: "DEDE BONTOT x JKT48 FANS",
+    brand: "BONTOT x ONTY X TONYANG",
     copyright: "&copy; 2026 Segala Hak Cipta Dilindungi Undang-Undang."
   }
 };
