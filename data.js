@@ -47,7 +47,7 @@ const graduationData = {
       { src: "ONTY 2.jpeg", alt: "Foto Dina 4" }
     ],
     message: '"Selamat wisuda, Abang! Perjuangan ngerjain tugas akhir dan begadang akhirnya terbayar lunas hari ini. Semoga gelar barumu berkah, dan kamu bisa sesukses JKT48 yang selalu dicintai banyak orang. Jangan lupa buat terus dukung oshi kita juga ya setelah kerja nanti, hehe! <i>Proud of you!</i>"',
-    sender: "- Dari Dede Bontot"
+    sender: "- Dari Dede Bontot Dan Onty Gemoy"
   },
 
   footer: {
